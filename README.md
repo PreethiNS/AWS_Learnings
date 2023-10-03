@@ -1,2 +1,2 @@
 # AWS_Learnings
-posting aws learning and projects
+aws learnings and projects
